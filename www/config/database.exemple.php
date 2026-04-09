@@ -1,8 +1,8 @@
 <?php
-define('DB_HOST', 'db');        // nom du SERVICE dans compose.yml (pas db-1)
-define('DB_NAME', 'testdb');    // nom d�fini dans MYSQL_DATABASE
-define('DB_USER', 'root');
-define('DB_PASS', 'root');
+define('DB_HOST', 'nom_du_service_docker');
+define('DB_NAME', 'nom_de_la_base');
+define('DB_USER', 'ton_utilisateur');
+define('DB_PASS', 'ton_mot_de_passe');
 define('DB_CHARSET', 'utf8mb4');
 
 function getDB(): PDO {
