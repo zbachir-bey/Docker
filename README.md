@@ -1,4 +1,3 @@
-Système d'authentification PHP
 Application web d'authentification développée en PHP avec une base de données MySQL, conteneurisée via Docker.
 Stack technique
 
