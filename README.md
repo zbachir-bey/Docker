@@ -1,11 +1,11 @@
 Application web d'authentification développée en PHP avec une base de données MySQL, conteneurisée via Docker.
 Stack technique
 
-PHP 8.2 avec Apache
-MySQL 8
-phpMyAdmin pour la gestion de la base de données
-Docker & Docker Compose pour la conteneurisation
-PDO pour les interactions avec la base de données
+- PHP 8.2 avec Apache
+- MySQL 8
+- phpMyAdmin pour la gestion de la base de données
+- Docker & Docker Compose pour la conteneurisation
+- PDO pour les interactions avec la base de données
 
 Fonctionnalités
 
